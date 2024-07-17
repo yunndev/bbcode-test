@@ -16,7 +16,7 @@ const Home = () => {
         Bienvenue!
       </h1>
       <p className="mt-2 text-sm font-medium prose text-left text-gray-400">
-        Bienvenue sur le générateur de BBCode, l'outil de choix des officiers de la
+        Bienvenue sur le générateur de ta mère, l'outil de choix des officiers de la
         San Andreas Highway Patrol pour remplir leurs rapports
         d'arrestation, d'intervention et bien plus!{' '}
       </p>

@@ -135,7 +135,7 @@ const Arrestation = () => {
     <main className="lg:max-w-5xl">
       <form onSubmit={handleSubmit(onSubmit)}>
         <h1 className="text-2xl font-bold text-gray-800 lg:text-3xl dark:text-white">
-          Rapport d'arrestation
+          Rapport de test
         </h1>
         <p className="mt-2 text-sm font-medium prose text-left text-gray-400">
           Procédure post-arrestation et remplissage automatique du booking
