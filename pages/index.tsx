@@ -16,8 +16,8 @@ const Home = () => {
         Bienvenue!
       </h1>
       <p className="mt-2 text-sm font-medium prose text-left text-gray-400">
-        Bienvenue sur le générateur de BBCode, l'outil de choix des officiers du
-        Blount County Metropolitan Police Department pour remplir leurs rapports
+        Bienvenue sur le générateur de BBCode, l'outil de choix des officiers de la
+        San Andreas Highway Patrol pour remplir leurs rapports
         d'arrestation, d'intervention et bien plus!{' '}
       </p>
       <div className="grid grid-rows-4 gap-4 pb-16 mt-8 lg:grid-cols-2 lg:grid-rows-2 lg:max-w-3xl">
